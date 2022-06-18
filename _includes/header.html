@@ -7,12 +7,6 @@
         <a href="#menu" class="menuToggle"><span>菜单</span></a>
         <div id="menu">
           <ul>
-            <li><a href="https://yz14.github.io/main/">介绍</a></li>
-            <li><a href="https://yz14.github.io/main/docs/front/">写在前面</a></li>
-            <li><a href="https://yz14.github.io/main/docs/psy">心理学笔记</a></li>
-            <li><a href="https://yz14.github.io/main/docs/ml">机器学习笔记</a></li>
-            <li><a href="https://yz14.github.io/main/docs/dl">深度学习笔记</a></li>
-            <li><a href="https://yz14.github.io/main/docs/zw">随笔</a></li>
             {% for my_page in site.pages %}
             {% if my_page.title %}
             <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
