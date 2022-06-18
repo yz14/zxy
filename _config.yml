@@ -2,13 +2,13 @@
 #
 
 # Site settings
-title: YZ
+title: 人生若只如初见
 description: |
   
 owner: 袁振 # or company name
 first_published: 2022 # if migrating another site, the year of your first publish
 email: 1163660010@qq.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/zxy" # the subpath of your site, e.g. /blog
 url: "https://yz14.github.io" # the base hostname & protocol for your site
 social:
 #   twitter: https://yz14.github.io/tm9
