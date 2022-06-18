@@ -1,1 +1,57 @@
-theme: jekyll-theme-cayman
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: YZ
+description: |
+  
+owner: 袁振 # or company name
+first_published: 2022 # if migrating another site, the year of your first publish
+email: 1163660010@qq.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yz14.github.io" # the base hostname & protocol for your site
+social:
+#   twitter: https://yz14.github.io/tm9
+#   github: https://yz14.github.io
+#   linkedin-square: https://yz14.github.io/tm2
+#   facebook-official: https://yz14.github.io/tm17
+#   google-plus-square: https://plus.google.com/u/0/+<username>
+  email: 1163660010@qq.com
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  weixin: 1163660010
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
